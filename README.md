@@ -1,2 +1,3 @@
 # practice3
-This is a third repository
+This is a third repository.
+author-Coder
